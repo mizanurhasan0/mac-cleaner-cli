@@ -6,14 +6,14 @@ choose item by item, then clean or cancel. Removes app and browser caches, logs,
 
 Single static binary (about 6 MB). No install, no runtime, no account, no network access.
 
-### ⬇️ [Download Mac-Cleaner.command](https://github.com/mizanurhasan0/mac-cleaner-cli/releases/latest/download/Mac-Cleaner.command)
+### ⬇️ [Download Mac-Cleaner.command](https://github.com/mizanurhasan0/mac-cleaner-cli/raw/main/dist/Mac-Cleaner.command)
 
 One click, one file. Works on Apple Silicon and Intel Macs.
 [All releases](https://github.com/mizanurhasan0/mac-cleaner-cli/releases)
 
 ## Quick start (one file)
 
-1. [**Download Mac-Cleaner.command**](https://github.com/mizanurhasan0/mac-cleaner-cli/releases/latest/download/Mac-Cleaner.command) (direct download, always the latest version).
+1. [**Download Mac-Cleaner.command**](https://github.com/mizanurhasan0/mac-cleaner-cli/raw/main/dist/Mac-Cleaner.command) (direct download, always the latest version from `main`).
 2. Right-click it, choose **Open**, then **Open** again (first time only, the file is unsigned).
 3. Pick a mode, review the list, press `a` then `c`, confirm with `y`.
 
