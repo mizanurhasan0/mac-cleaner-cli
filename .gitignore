@@ -1,4 +1,5 @@
 .DS_Store
 dist/*
 !dist/Mac-Cleaner.command
+!dist/Mac-Cleaner.zip
 mac-cleaner-cli

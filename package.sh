@@ -56,4 +56,6 @@ LAUNCHER
 gzip -9 -c "$OUT/work/mac-cleaner-cli" | base64 >> "$OUT/Mac-Cleaner.command"
 chmod +x "$OUT/Mac-Cleaner.command"
 rm -rf "$OUT/work"
-ls -lh "$OUT/Mac-Cleaner.command"
+# Zip for browser downloads (a .command file opens as text in browsers). zip keeps the exec bit.
+(cd "$OUT" && zip -q -X Mac-Cleaner.zip Mac-Cleaner.command)
+ls -lh "$OUT/Mac-Cleaner.command" "$OUT/Mac-Cleaner.zip"
