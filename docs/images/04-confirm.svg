@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="876" height="314" viewBox="0 0 876 314" role="img" aria-label="mac-cleaner-cli · confirm">
+<rect width="876" height="314" rx="10" fill="#1e1e1e"/>
+<rect width="876" height="30" rx="10" fill="#2d2d2d"/><rect y="20" width="876" height="10" fill="#2d2d2d"/>
+<circle cx="18" cy="15" r="6" fill="#ff5f56"/><circle cx="38" cy="15" r="6" fill="#ffbd2e"/><circle cx="58" cy="15" r="6" fill="#27c93f"/>
+<text x="438.0" y="19" text-anchor="middle" font-family="-apple-system,Helvetica,Arial,sans-serif" font-size="12" fill="#9a9a9a">mac-cleaner-cli · confirm</text>
+<g font-family="SF Mono,Menlo,Monaco,Consolas,'Liberation Mono',monospace" font-size="14" style="white-space:pre" xml:space="preserve">
+<text x="18.0" y="57.0" fill="#00afff" font-weight="bold" textLength="126.0" lengthAdjust="spacingAndGlyphs">mac-cleaner-cli</text>
+<text x="152.4" y="57.0" fill="#808080" textLength="42.0" lengthAdjust="spacingAndGlyphs">0.1.0</text>
+<text x="211.2" y="57.0" fill="#808080" textLength="8.4" lengthAdjust="spacingAndGlyphs">›</text>
+<text x="236.4" y="57.0" fill="#d4d4d4" font-weight="bold" textLength="58.8" lengthAdjust="spacingAndGlyphs">Confirm</text>
+<text x="34.8" y="93.0" fill="#d4d4d4" textLength="33.6" lengthAdjust="spacingAndGlyphs">Move</text>
+<text x="76.8" y="93.0" fill="#d4d4d4" textLength="16.8" lengthAdjust="spacingAndGlyphs">to</text>
+<text x="102.0" y="93.0" fill="#d4d4d4" textLength="42.0" lengthAdjust="spacingAndGlyphs">Trash</text>
+<text x="202.8" y="93.0" fill="#d4d4d4" textLength="8.4" lengthAdjust="spacingAndGlyphs">0</text>
+<text x="219.6" y="93.0" fill="#d4d4d4" textLength="42.0" lengthAdjust="spacingAndGlyphs">items</text>
+<text x="337.2" y="93.0" fill="#d4d4d4" font-weight="bold" textLength="8.4" lengthAdjust="spacingAndGlyphs">0</text>
+<text x="354.0" y="93.0" fill="#d4d4d4" font-weight="bold" textLength="8.4" lengthAdjust="spacingAndGlyphs">B</text>
+<text x="387.6" y="93.0" fill="#808080" textLength="92.4" lengthAdjust="spacingAndGlyphs">restorable;</text>
+<text x="488.4" y="93.0" fill="#808080" textLength="42.0" lengthAdjust="spacingAndGlyphs">space</text>
+<text x="538.8" y="93.0" fill="#808080" textLength="58.8" lengthAdjust="spacingAndGlyphs">returns</text>
+<text x="606.0" y="93.0" fill="#808080" textLength="33.6" lengthAdjust="spacingAndGlyphs">when</text>
+<text x="648.0" y="93.0" fill="#808080" textLength="25.2" lengthAdjust="spacingAndGlyphs">you</text>
+<text x="681.6" y="93.0" fill="#808080" textLength="42.0" lengthAdjust="spacingAndGlyphs">empty</text>
+<text x="732.0" y="93.0" fill="#808080" textLength="25.2" lengthAdjust="spacingAndGlyphs">the</text>
+<text x="765.6" y="93.0" fill="#808080" textLength="42.0" lengthAdjust="spacingAndGlyphs">Trash</text>
+<text x="34.8" y="111.0" fill="#d4d4d4" textLength="50.4" lengthAdjust="spacingAndGlyphs">Delete</text>
+<text x="93.6" y="111.0" fill="#d4d4d4" textLength="25.2" lengthAdjust="spacingAndGlyphs">for</text>
+<text x="127.2" y="111.0" fill="#d4d4d4" textLength="33.6" lengthAdjust="spacingAndGlyphs">good</text>
+<text x="202.8" y="111.0" fill="#d4d4d4" textLength="8.4" lengthAdjust="spacingAndGlyphs">6</text>
+<text x="219.6" y="111.0" fill="#d4d4d4" textLength="42.0" lengthAdjust="spacingAndGlyphs">items</text>
+<text x="295.2" y="111.0" fill="#ff5f5f" textLength="42.0" lengthAdjust="spacingAndGlyphs">423.6</text>
+<text x="345.6" y="111.0" fill="#ff5f5f" textLength="16.8" lengthAdjust="spacingAndGlyphs">MB</text>
+<text x="387.6" y="111.0" fill="#808080" textLength="50.4" lengthAdjust="spacingAndGlyphs">cannot</text>
+<text x="446.4" y="111.0" fill="#808080" textLength="16.8" lengthAdjust="spacingAndGlyphs">be</text>
+<text x="471.6" y="111.0" fill="#808080" textLength="50.4" lengthAdjust="spacingAndGlyphs">undone</text>
+<text x="34.8" y="147.0" fill="#808080" textLength="58.8" lengthAdjust="spacingAndGlyphs">Largest</text>
+<text x="102.0" y="147.0" fill="#808080" textLength="75.6" lengthAdjust="spacingAndGlyphs">selected:</text>
+<text x="51.6" y="165.0" fill="#ff5f5f" textLength="50.4" lengthAdjust="spacingAndGlyphs">delete</text>
+<text x="118.8" y="165.0" fill="#d4d4d4" textLength="42.0" lengthAdjust="spacingAndGlyphs">188.7</text>
+<text x="169.2" y="165.0" fill="#d4d4d4" textLength="16.8" lengthAdjust="spacingAndGlyphs">MB</text>
+<text x="202.8" y="165.0" fill="#d4d4d4" textLength="142.8" lengthAdjust="spacingAndGlyphs">com.google.Chrome</text>
+<text x="51.6" y="183.0" fill="#ff5f5f" textLength="50.4" lengthAdjust="spacingAndGlyphs">delete</text>
+<text x="127.2" y="183.0" fill="#d4d4d4" textLength="33.6" lengthAdjust="spacingAndGlyphs">99.6</text>
+<text x="169.2" y="183.0" fill="#d4d4d4" textLength="16.8" lengthAdjust="spacingAndGlyphs">MB</text>
+<text x="202.8" y="183.0" fill="#d4d4d4" textLength="151.2" lengthAdjust="spacingAndGlyphs">com.spotify.client</text>
+<text x="51.6" y="201.0" fill="#ff5f5f" textLength="50.4" lengthAdjust="spacingAndGlyphs">delete</text>
+<text x="127.2" y="201.0" fill="#d4d4d4" textLength="33.6" lengthAdjust="spacingAndGlyphs">62.9</text>
+<text x="169.2" y="201.0" fill="#d4d4d4" textLength="16.8" lengthAdjust="spacingAndGlyphs">MB</text>
+<text x="202.8" y="201.0" fill="#d4d4d4" textLength="210.0" lengthAdjust="spacingAndGlyphs">com.tinyspeck.slackmacgap</text>
+<text x="51.6" y="219.0" fill="#ff5f5f" textLength="50.4" lengthAdjust="spacingAndGlyphs">delete</text>
+<text x="127.2" y="219.0" fill="#d4d4d4" textLength="33.6" lengthAdjust="spacingAndGlyphs">44.0</text>
+<text x="169.2" y="219.0" fill="#d4d4d4" textLength="16.8" lengthAdjust="spacingAndGlyphs">MB</text>
+<text x="202.8" y="219.0" fill="#d4d4d4" textLength="168.0" lengthAdjust="spacingAndGlyphs">com.microsoft.VSCode</text>
+<text x="51.6" y="237.0" fill="#ff5f5f" textLength="50.4" lengthAdjust="spacingAndGlyphs">delete</text>
+<text x="127.2" y="237.0" fill="#d4d4d4" textLength="33.6" lengthAdjust="spacingAndGlyphs">18.9</text>
+<text x="169.2" y="237.0" fill="#d4d4d4" textLength="16.8" lengthAdjust="spacingAndGlyphs">MB</text>
+<text x="202.8" y="237.0" fill="#d4d4d4" textLength="142.8" lengthAdjust="spacingAndGlyphs">DiagnosticReports</text>
+<text x="51.6" y="255.0" fill="#ff5f5f" textLength="50.4" lengthAdjust="spacingAndGlyphs">delete</text>
+<text x="135.6" y="255.0" fill="#d4d4d4" textLength="25.2" lengthAdjust="spacingAndGlyphs">9.4</text>
+<text x="169.2" y="255.0" fill="#d4d4d4" textLength="16.8" lengthAdjust="spacingAndGlyphs">MB</text>
+<text x="202.8" y="255.0" fill="#d4d4d4" textLength="33.6" lengthAdjust="spacingAndGlyphs">Zoom</text>
+<text x="34.8" y="291.0" fill="#d4d4d4" textLength="42.0" lengthAdjust="spacingAndGlyphs">Press</text>
+<text x="85.2" y="291.0" fill="#d4d4d4" font-weight="bold" textLength="8.4" lengthAdjust="spacingAndGlyphs">y</text>
+<text x="102.0" y="291.0" fill="#d4d4d4" textLength="16.8" lengthAdjust="spacingAndGlyphs">to</text>
+<text x="127.2" y="291.0" fill="#d4d4d4" textLength="50.4" lengthAdjust="spacingAndGlyphs">clean,</text>
+<text x="186.0" y="291.0" fill="#d4d4d4" textLength="16.8" lengthAdjust="spacingAndGlyphs">or</text>
+<text x="211.2" y="291.0" fill="#d4d4d4" font-weight="bold" textLength="8.4" lengthAdjust="spacingAndGlyphs">n</text>
+<text x="228.0" y="291.0" fill="#d4d4d4" textLength="16.8" lengthAdjust="spacingAndGlyphs">to</text>
+<text x="253.2" y="291.0" fill="#d4d4d4" textLength="16.8" lengthAdjust="spacingAndGlyphs">go</text>
+<text x="278.4" y="291.0" fill="#d4d4d4" textLength="42.0" lengthAdjust="spacingAndGlyphs">back.</text>
+</g></svg>

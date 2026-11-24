@@ -47,6 +47,61 @@ The file is not signed by Apple, so a double-click is blocked on recent macOS ve
 
 Works on Apple Silicon and Intel Macs. Nothing else needs to be installed.
 
+## Screenshot tutorial
+
+The screenshots below were taken from the real app on sample data. Your numbers will differ.
+
+### Step 1: pick a mode
+
+Run the program. The top bar shows your free disk space. Press a number to choose a mode
+(`2` is the safest place to start), or use `↑` `↓` and `enter`.
+
+![Main menu](docs/images/01-menu.svg)
+
+### Step 2: review what was found
+
+After a short scan you get a list grouped by category. Nothing is ticked yet.
+Each row shows the size, a risk label (**safe** or **review**) and the action (**delete** or **trash**).
+Press `enter` on a group to open or close it.
+
+![Review list](docs/images/02-review.svg)
+
+### Step 3: tick what you want to clean
+
+Press `space` to tick one item, or `a` to tick every **safe** item at once.
+The line at the bottom shows how much will be cleaned. The **review** item here (an old installer)
+stays unticked until you decide. Press `t` to switch an item between **trash** (restorable) and
+**delete** (permanent).
+
+![Items ticked](docs/images/03-selected.svg)
+
+### Step 4: confirm
+
+Press `c`. A summary shows how much goes to the Trash and how much is deleted for good, plus the
+largest items. Press `y` to run, or `n` to go back. Nothing has been touched until this point.
+
+![Confirm screen](docs/images/04-confirm.svg)
+
+### Step 5: done
+
+The report shows how much was cleaned and your free space before and after. Items sent to the Trash
+free their space once you empty the Trash. Every action is saved to the history log.
+Press any key for the menu, or `q` to quit.
+
+![Done screen](docs/images/05-done.svg)
+
+### More modes
+
+**Dev clean** (`4`) finds package caches, Xcode data and old project folders such as `node_modules`
+and `target`:
+
+![Dev clean](docs/images/06-dev.svg)
+
+**Disk doctor** (`6`) is a read-only folder browser that shows what uses your space. It never
+removes anything:
+
+![Disk doctor](docs/images/07-disk.svg)
+
 ## Build from source
 
 ```bash

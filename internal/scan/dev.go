@@ -83,11 +83,24 @@ func dev(ctx context.Context, home string, emit func(Event)) {
 
 	emit(Event{Status: "Looking for project build output"})
 	var found []cand
+	var seen []os.FileInfo // macOS is case-insensitive: "Projects" and "projects" are one folder
 	for _, r := range projectRoots {
 		root := filepath.Join(home, r)
-		if !exists(root) {
+		info, err := os.Stat(root)
+		if err != nil {
 			continue
 		}
+		dup := false
+		for _, o := range seen {
+			if os.SameFile(o, info) {
+				dup = true
+				break
+			}
+		}
+		if dup {
+			continue
+		}
+		seen = append(seen, info)
 		walkProjects(ctx, home, root, 0, &found)
 	}
 	emit(Event{Items: sizeAll(ctx, found, artifactMin)})
