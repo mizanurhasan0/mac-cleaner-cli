@@ -11,11 +11,39 @@ Single static binary (about 6 MB). No install, no runtime, no account, no networ
 One click, one file. Works on Apple Silicon and Intel Macs.
 [All releases](https://github.com/mizanurhasan0/mac-cleaner-cli/releases)
 
-## Quick start (one file)
+## Quick start
 
-1. [**Download Mac-Cleaner.zip**](https://github.com/mizanurhasan0/mac-cleaner-cli/raw/main/dist/Mac-Cleaner.zip) (direct download, always the latest version from `main`).
-2. Double-click the zip to unpack **`Mac-Cleaner.command`**. Right-click it, choose **Open**, then **Open** again (first time only, the file is unsigned).
+### Option 1: one command (easiest, no warnings)
+
+Open **Terminal** and paste this line:
+
+```bash
+bash -c "$(curl -fsSL https://raw.githubusercontent.com/mizanurhasan0/mac-cleaner-cli/main/install.sh)"
+```
+
+The command downloads the latest `Mac-Cleaner.command` and runs it. macOS shows no security warning
+because the file is run through `bash`. (A `.sh` file cannot be double-clicked on a Mac; it opens in a
+text editor, so the command is the way to start it.) Nothing stays on your Mac after you quit.
+
+### Option 2: download the zip
+
+1. [**Download Mac-Cleaner.zip**](https://github.com/mizanurhasan0/mac-cleaner-cli/raw/main/dist/Mac-Cleaner.zip) and double-click it to unpack **`Mac-Cleaner.command`**.
+2. Open **Terminal** and run (drag the file into Terminal if your path differs):
+
+```bash
+bash ~/Downloads/Mac-Cleaner.command
+```
+
 3. Pick a mode, review the list, press `a` then `c`, confirm with `y`.
+
+### If macOS says "Mac-Cleaner.command Not Opened" with only "Move to Trash"
+
+The file is not signed by Apple, so a double-click is blocked on recent macOS versions. Use either:
+
+- **Run it with `bash`** (Option 2 above). This always works.
+- **Allow it once:** double-click the file, close the warning, open **System Settings → Privacy &
+  Security**, scroll down to the message about `Mac-Cleaner.command` and click **Open Anyway**.
+- **Remove the download flag:** `xattr -d com.apple.quarantine ~/Downloads/Mac-Cleaner.command`
 
 Works on Apple Silicon and Intel Macs. Nothing else needs to be installed.
 
